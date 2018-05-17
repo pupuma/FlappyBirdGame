@@ -1,0 +1,147 @@
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird1(BackGround)\Unity2DStudy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird2(Animation만들기1)\Unity2DStudy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird3(Camera)\Unity2DStudy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird4(BackGround 무한)\Unity2DStudy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird5(기둥 만들기)\Unity2DStudy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird7(UIs)\Unity2DStudy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Unity\FlappyBird8(GameController)\Unity2DStudy\obj\Debug\Assembly-CSharp.pdb
